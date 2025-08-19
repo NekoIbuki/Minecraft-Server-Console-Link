@@ -34,6 +34,11 @@ GetSERROR() to obtain the error information in the server console
 
 GetSERROR()获取服务器控制台报错信息  
 
+La información anterior se almacenará en el archivo en el directorio raíz del proyecto.  
+La herramienta se inicia configurando la ruta de la carpeta del lado servidor del server_config.txt y se inicia la configuración de inicio del lado servidor  
+以上信息会存储在项目根目录下的文件内.  
+通过配置server_config.txt的服务端文件夹路径,服务端启动配置启动该工具  
+
 (Currently in the development stage, many functions are not perfected, this is my first project, I hope you will guide me)  
 
 (目前处于开发阶段很多功能没有完善,这是我的第一个项目希望各位指导)
