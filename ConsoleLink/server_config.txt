@@ -1,0 +1,4 @@
+#服务端文件夹路径 server-side folder path
+work_dir="K:\Server\Forge"
+#服务端启动配置 The server starts the configuration
+start_cmd="java -Xms1G -Xmx1G @libraries\net\minecraftforge\forge\1.20.1-47.3.22\win_args.txt %*"
