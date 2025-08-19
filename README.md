@@ -12,7 +12,7 @@ At present, it only has an output function, which is output through the OUTMSGLi
 
 Calling the IOutputMessage class uses GetGlobalOutputMessage  
 
-调用IOutputMessage类使用GetGlobalOutputMessage方法即可获取输出信息调用IOutputMessage类使用GetGlobalOutputMessage方法即可获取输出信息  
+调用IOutputMessage类使用GetGlobalOutputMessage方法即可获取输出信息
 
 GetPChat() to get player chat information  
 
